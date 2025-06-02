@@ -1,0 +1,2 @@
+C:/tools/Projetos/App Futebol/torneio_facil_novo/android/app/.cxx/Debug/5x3o603f/x86/CMakeFiles/edit_cache.dir
+C:/tools/Projetos/App Futebol/torneio_facil_novo/android/app/.cxx/Debug/5x3o603f/x86/CMakeFiles/rebuild_cache.dir

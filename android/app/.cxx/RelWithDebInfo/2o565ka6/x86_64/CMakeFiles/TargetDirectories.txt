@@ -1,0 +1,2 @@
+C:/Users/Luis Felipe/Documents/Projetos/torneio_facil_novo/android/app/.cxx/RelWithDebInfo/2o565ka6/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Luis Felipe/Documents/Projetos/torneio_facil_novo/android/app/.cxx/RelWithDebInfo/2o565ka6/x86_64/CMakeFiles/rebuild_cache.dir
